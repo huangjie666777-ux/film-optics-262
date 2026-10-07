@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+/build/
+/out/
+*.o
+*.a
+*.so
+.cache/
